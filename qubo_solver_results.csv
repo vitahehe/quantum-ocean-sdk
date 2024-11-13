@@ -1,0 +1,5 @@
+N_PARTICLES,Solver,Percentage_Similarity,Hamming_Distance,F1_Score,Cost_Energy
+2,qubosolverHr,100.0,0.0,1.0,-4.0
+2,qubosolverTABU,100.0,0.0,1.0,-4.0
+3,qubosolverHr,100.0,0.0,1.0,-6.0
+3,qubosolverTABU,100.0,0.0,1.0,-6.0
