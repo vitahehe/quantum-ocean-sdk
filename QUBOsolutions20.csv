@@ -1,0 +1,26 @@
+N_PARTICLES,Solver,Hit Efficiency,Fake Rates,Hit Purity
+2,qubosolverSA,1.0,0.0,1.0
+2,qubosolverHr,1.0,0.0,1.0
+2,qubosolverQA,1.0,0.0,1.0
+4,qubosolverSA,1.0,0.0,1.0
+4,qubosolverHr,1.0,0.0,1.0
+4,qubosolverQA,1.0,0.0,1.0
+6,qubosolverSA,1.0,0.0,1.0
+6,qubosolverHr,1.0,0.0,1.0
+6,qubosolverQA,1.0,0.0,1.0
+8,qubosolverSA,1.0,0.0,1.0
+8,qubosolverHr,1.0,0.0,1.0
+8,qubosolverQA,0.6875,0.21428571428571427,0.7857142857142857
+10,qubosolverSA,1.0,0.0,1.0
+10,qubosolverHr,1.0,0.0,1.0
+10,qubosolverQA,0.475,0.36666666666666664,0.6333333333333333
+12,qubosolverSA,1.0,0.0,1.0
+12,qubosolverHr,1.0,0.0,1.0
+14,qubosolverSA,1.0,0.0,1.0
+14,qubosolverHr,1.0,0.0,1.0
+16,qubosolverSA,1.0,0.0,1.0
+16,qubosolverHr,1.0,0.0,1.0
+18,qubosolverSA,1.0,0.0,1.0
+18,qubosolverHr,1.0,0.0,1.0
+20,qubosolverSA,1.0,0.0,1.0
+20,qubosolverHr,1.0,0.0,1.0
