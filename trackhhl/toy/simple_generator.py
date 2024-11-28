@@ -36,6 +36,7 @@ class SimpleGenerator:
             primary_vertices.append((x, y, z))
         return primary_vertices
     
+    #change event to 2 and def_evrtext= 2
     def generate_event(self, n_particles, n_events=1, sigma=(0,0,0), defined_primary_vertex=None):
         hit_id_counter = count()
         all_events = []
