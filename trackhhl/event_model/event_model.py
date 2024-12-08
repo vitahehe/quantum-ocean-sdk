@@ -100,7 +100,8 @@ class Event:
                 hit_x.append(hit.x)
                 hit_y.append(hit.y)
                 hit_z.append(hit.z)
-            ax.scatter3D(hit_x, hit_y, hit_z,s=s_hits,c='snow')
+            ax.scatter3D(hit_x, hit_y, hit_z, s=s_hits, color='red')
+
 
         if show_modules:
             for module in self.modules:
@@ -131,7 +132,7 @@ class Event:
                 theta = track.mc_info.phi
                 ax.plot((pvx,pvx + t*np.sin(theta)*np.cos(phi)),
                 (pvy,pvy+ t*np.sin(theta)*np.sin(phi)),
-                (pvz,z_lim[1]), alpha=1, color = '#BA82EB')
+                (pvz,z_lim[1]), alpha=1, color = '#BA82EB', zorder = 5)
 
         if equal_axis:
             set_axes_equal(ax)
