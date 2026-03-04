@@ -36,3 +36,5 @@ typing_extensions==4.12.2
 urllib3==2.2.3
 Werkzeug==3.0.4
 zipp==3.20.2
+joblib==1.3.2
+matplotlib==3.8.1
